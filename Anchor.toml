@@ -1,0 +1,10 @@
+[programs.localnet]
+propertymanager = "7J6tr5miYwoQskiYdFD1V6XCa15VbwsnhR4Zaw4EU4LM"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "localnet"
+wallet = "~/.config/solana/id.json"
+
